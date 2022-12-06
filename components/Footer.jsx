@@ -125,7 +125,7 @@ const Footer = () => {
 
           {/* :COPYRIGHT */}
           <p className="pt-10 text-sm text-gray-300 text-center w-full">
-            &copy; 2022, CyberChatBot Todos os direitos reservados.
+            &copy; 2022, CyberChatBot - Todos os direitos reservados.
           </p>
         </div>
       </footer>
