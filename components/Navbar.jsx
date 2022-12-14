@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,9 +33,6 @@ export const Navbar = () => {
           </a>
           <a href="#plans" className="mr-8 hover:text-cyan">
             PLANOS
-          </a>
-          <a href="/contato" className="mr-8 hover:text-cyan">
-            CONTATO
           </a>
         </nav>
 
